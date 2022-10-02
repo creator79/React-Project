@@ -41,3 +41,5 @@ This project doesn't use any external plugins for video calling. Instead, it use
    ## Contributors:
    `Vivek Upadhyay`
    `Yash Bihari`
+   `Ankush`
+   `Avinash Singh`
